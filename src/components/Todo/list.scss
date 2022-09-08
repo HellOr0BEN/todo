@@ -1,0 +1,18 @@
+li{
+    display: flex;
+    background-color: rgb(234, 229, 229) ;
+    margin: 5px;
+    color: rgb(23, 23, 21);
+    font-size: larger;
+    justify-content: space-evenly;
+
+    .icon{
+        margin-left: 10px;
+        margin-top: 2px;
+        color: red;
+        background-color: inherit;
+
+    }
+    
+
+}
